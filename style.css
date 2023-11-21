@@ -28,9 +28,12 @@ img, progress {
 
 h1 {
     font-weight: normal;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+li {
+    margin-bottom: 5px;
 }
 
 
-/* ul {
-    margin-bottom: 25px;
-} */
