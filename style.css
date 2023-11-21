@@ -18,6 +18,10 @@ img {
     width: 100%;
 }
 
-ul {
-    margin-bottom: 10px;
+h1 {
+    font-weight: normal;
 }
+
+/* ul {
+    margin-bottom: 25px;
+} */
