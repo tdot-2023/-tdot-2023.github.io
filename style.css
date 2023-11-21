@@ -14,13 +14,22 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
     vertical-align:baseline
 } 
 
-img {
+body {
+    padding: 10px;
+}
+
+ul {
+    list-style: none;
+}
+
+img, progress {
     width: 100%;
 }
 
 h1 {
     font-weight: normal;
 }
+
 
 /* ul {
     margin-bottom: 25px;
