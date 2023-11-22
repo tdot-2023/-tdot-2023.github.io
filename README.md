@@ -16,5 +16,13 @@ Füge am Beginn der Liste die Stationen "Web & Mobile Computing (2. OG)" und "Gr
 
 Füge am Beginn der Website das Video `htl-video.mp4` ein.
 
-**Hinweis:** `<video src="name-des-videos" width="100%" controls autoplay muted></video>`
+**Tipp:** `<video src="name-des-videos" width="100%" controls autoplay muted></video>`
 `
+
+## Challenge 5
+
+Veröffentliche deine Website im Internet.
+
+## Challenge 6
+
+Erstelle einen QR-Code für deine Website und öffne sie auf deinem Smartphone.
