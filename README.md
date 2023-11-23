@@ -2,7 +2,7 @@
 
 ## Challenge 1
 
-Erweitere die Website mithilfe der Dateien `informatik.png`, `medientechnik.png` und `systemtechnik.png` um passende Links auf die Website der HTL Perg.
+Erweitere die Website  um einen Link auf eine der Fachrichtungen, die auf der HTL Perg Website vorgestellt werden.
 
 ## Challenge 2
 
@@ -16,9 +16,9 @@ Füge am Beginn der Liste die Station "Web & Mobile Computing (2. OG)" hinzu.
 
 Füge am Beginn der Website das Video `htl-video.mp4` ein
 
-**Tipp:** `<video src="name-des-videos" width="100%" controls autoplay muted></video>`
+**Tipp:** `<video src="name-des-videos" width="100%" autoplay muted loop></video>`
 
-**Frage:** Hast du eine Idee was `controls`, `autoplay` und `muted` bewirken?
+**Frage:** Hast du eine Idee was `autoplay`, `muted` und `loop` bewirken?
 
 ## Challenge 5
 
