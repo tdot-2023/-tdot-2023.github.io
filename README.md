@@ -10,7 +10,7 @@ Füge vor der Liste mit den Stationen eine Überschrift mit deinem Namen ein, z.
 
 ## Challenge 3
 
-Füge am Beginn der Liste die Stationen "Web & Mobile Computing (2. OG)" und "Green Box (2. OG)" ein.
+Füge am Beginn der Liste die Station "Web & Mobile Computing (2. OG)" hinzu.
 
 ## Challenge 4
 
