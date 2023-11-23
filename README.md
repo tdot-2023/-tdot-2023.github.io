@@ -14,15 +14,16 @@ Füge am Beginn der Liste die Stationen "Web & Mobile Computing (2. OG)" und "Gr
 
 ## Challenge 4
 
-Füge am Beginn der Website das Video `htl-video.mp4` ein.
+Füge am Beginn der Website das Video `htl-video.mp4` ein
 
 **Tipp:** `<video src="name-des-videos" width="100%" controls autoplay muted></video>`
-`
+
+**Frage:** Hast du eine Idee was `controls`, `autoplay` und `muted` bewirken?
 
 ## Challenge 5
 
-Veröffentliche deine Website im Internet.
+Veröffentliche deine Website im Internet. Unsere HTL Schüler:innen unterstützen dich dabei. 😉
 
 ## Challenge 6
 
-Erstelle einen QR-Code für deine Website und öffne sie auf deinem Smartphone.
+Erstelle [hier]( https://www.qr-code-generator.com/) einen QR-Code für deine Website und öffne sie auf einem Smartphone.
